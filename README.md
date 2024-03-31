@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Darius</h1>
 
+<h3 align="center">A passionate developer from Romania.</h3>
 <!--
 **DariusBurnete/DariusBurnete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
